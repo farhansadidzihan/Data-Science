@@ -1,1 +1,1 @@
-# Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+# Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Computer Vision (CV)
